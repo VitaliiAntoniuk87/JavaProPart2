@@ -28,7 +28,6 @@ public class Main {
                 case "x" -> result = firstOperand * secondOperand;
             }
         }
-        System.out.println("test");
         return result;
     }
 }
